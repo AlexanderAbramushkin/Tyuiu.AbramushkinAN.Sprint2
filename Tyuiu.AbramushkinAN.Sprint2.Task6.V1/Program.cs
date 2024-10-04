@@ -28,7 +28,6 @@ namespace Tyuiu.AbramushkinAN.Sprint2.Task6.V1
 
             Console.WriteLine("Введите номер месяца:");
             int NumberOfMonth = Convert.ToInt32(Console.ReadLine());
-            string result;
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
