@@ -13,10 +13,10 @@ namespace Tyuiu.AbramushkinAN.Sprint2.Task5.V2.Lib
                     TimeOfYear = "зима";
                     break;
                 case 1:
-                    TimeOfYear = "има";
+                    TimeOfYear = "зима";
                     break;
                 case 2:
-                    TimeOfYear = "има";
+                    TimeOfYear = "зима";
                     break;
                 case 3:
                     TimeOfYear = "весна";

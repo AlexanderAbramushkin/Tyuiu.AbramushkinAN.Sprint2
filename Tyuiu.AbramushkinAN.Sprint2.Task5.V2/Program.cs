@@ -28,12 +28,21 @@ namespace Tyuiu.AbramushkinAN.Sprint2.Task5.V2
 
             Console.WriteLine("Введите номер месяца:");
             int NumberOfMonth = Convert.ToInt32(Console.ReadLine());
+            string result;
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine(ds.FindMonthSeason(NumberOfMonth));
+            if ((NumberOfMonth<1) || (NumberOfMonth > 12))
+            {
+                Console.WriteLine("Указано неверное значение. Укажите значение от 1 до 12.");
+            }
+            
+            else
+            {
+                Console.WriteLine($"Время года : {ds.FindMonthSeason(NumberOfMonth)}");
+            }
         }
     }
 }
