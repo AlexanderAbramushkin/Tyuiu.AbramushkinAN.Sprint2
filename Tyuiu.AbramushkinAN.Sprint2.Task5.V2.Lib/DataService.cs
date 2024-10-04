@@ -10,40 +10,40 @@ namespace Tyuiu.AbramushkinAN.Sprint2.Task5.V2.Lib
             switch (value) 
             {
                 case 12:
-                    TimeOfYear = "Зима";
+                    TimeOfYear = "зима";
                     break;
                 case 1:
-                    TimeOfYear = "Зима";
+                    TimeOfYear = "има";
                     break;
                 case 2:
-                    TimeOfYear = "Зима";
+                    TimeOfYear = "има";
                     break;
                 case 3:
-                    TimeOfYear = "Весна";
+                    TimeOfYear = "весна";
                     break;
                 case 4:
-                    TimeOfYear = "Весна";
+                    TimeOfYear = "весна";
                     break;
                 case 5:
-                    TimeOfYear = "Весна";
+                    TimeOfYear = "весна";
                     break;
                 case 6:
-                    TimeOfYear = "Лето";
+                    TimeOfYear = "лето";
                     break;
                 case 7:
-                    TimeOfYear = "Лето";
+                    TimeOfYear = "лето";
                     break;
                 case 8:
-                    TimeOfYear = "Лето";
+                    TimeOfYear = "лето";
                     break;
                 case 9:
-                    TimeOfYear = "Осень";
+                    TimeOfYear = "осень";
                     break;
                 case 10:
-                    TimeOfYear = "Осень";
+                    TimeOfYear = "осень";
                     break;
                 case 11:
-                    TimeOfYear = "Осень";
+                    TimeOfYear = "осень";
                     break;
                 default:
                     throw new ArgumentException($"Месяц должен быть от 1 до 12. Значение {value} не соответствует условию");
