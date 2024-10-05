@@ -8,7 +8,7 @@ namespace Tyuiu.AbramushkinAN.Sprint2.Task7.V7.Lib
             double check1, check2;
             check1 = 2-Math.Pow(x, 2);
             check2 = x;
-            if (((check1>=y)) && (y>=0 && y<=2) && ((check2>y) || (x>0 && y>0)))
+            if (((check1>=y)) && (y>=0 && y<=2) && ((check2>y) || (x>=0 && y>0)))
             {
                 return true;
             }
