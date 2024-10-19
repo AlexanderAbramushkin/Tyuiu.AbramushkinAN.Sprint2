@@ -11,7 +11,7 @@ namespace Tyuiu.AbramushkinAN.Sprint2.Task4.V20
             Console.Title = "Спринт #2 | Выполнил: Абрамушкин А. Н. | ИИПб-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Вложенные операторы if - else                                     *");
+            Console.WriteLine("* Тема: Тернарный оператор                                                *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #20                                                             *");
             Console.WriteLine("* Выполнил: Абрамушкин Александр Николаевич | ИИПб-24-2                   *");
