@@ -10,7 +10,7 @@ namespace Tyuiu.AbramushkinAN.Sprint2.Task7.V7
             Console.Title = "Спринт #2 | Выполнил: Абрамушкин А. Н. | ИИПб-24-2";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Получение результата из switch                                    *");
+            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
             Console.WriteLine("* Выполнил: Абрамушкин Александр Николаевич | ИИПб-24-2                   *");
